@@ -10,7 +10,7 @@
 ;
 ; You must not remove this notice, or any other, from this software.
 
-(defproject io.pedestal/pedestal.jetty "0.5.8-SNAPSHOT"
+(defproject io.clubhouse.forks/pedestal.jetty "0.5.7-ch2"
   :description "Embedded Jetty adapter for Pedestal HTTP Service"
   :url "https://github.com/pedestal/pedestal"
   :scm "https://github.com/pedestal/pedestal"
